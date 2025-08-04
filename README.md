@@ -255,7 +255,7 @@ Este projeto foi desenvolvido como parte do curso de React.js da CoderHouse.
 
 ### Autor
 
-**Seu Nome** - Turma React.js CoderHouse
+**Camila Macedo* - 71245 - React.js CoderHouse
 
 ---
 
